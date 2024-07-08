@@ -1,8 +1,7 @@
 
 a = 5
 
-for i in range(8):
-    print("слово")
+b = 9
 
 a, b = 9, 8
 
