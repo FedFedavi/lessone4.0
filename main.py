@@ -5,7 +5,8 @@ b = 9
 
 c = 32
 
-d = 90
+if a > b:
+    print("a больше чем b")
 
 elif b > a:
     print("b больше чем a")
