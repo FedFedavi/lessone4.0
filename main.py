@@ -1,14 +1,13 @@
 
-a = 5
+a = 55
 
 for i in range(8):
     print("слово")
 
-a, b = 9, 8
 
 if a > b:
     print("a больше чем b")
-
+# что если нет
 elif b > a:
     print("b больше чем a")
 
