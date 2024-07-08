@@ -1,10 +1,10 @@
 
-a = 5
+a = input("Введите значение переменной a ")
 
 for i in range(8):
     print("слово")
 
-a, b = 9, 8
+a, b, c = 9, 8, 12
 
 if a > b:
     print("a больше чем b")
